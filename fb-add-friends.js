@@ -4,7 +4,7 @@
 // @version      0.5.1
 // @description  Facebook Add Friends Script
 // @author       richardev
-// @match        https://www.facebook.com/
+// @match        https://www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 
