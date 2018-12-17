@@ -33,7 +33,9 @@ It's basically Javascript loop that simulates clicks, scrolls page down so the p
 <p align="center">
   <img src="./demo/create-new-script.jpg" alt="Create new script..."
        width="800">
-  
+</p>
+
+<p align="center">
 <img src="./demo/drag-drop.jpg" alt="Drag & Drop script"
        width="800">
 </p>
