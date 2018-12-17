@@ -1,7 +1,7 @@
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 <p align="center">
-  <img src="./demo/preview.gif" alt="Preview"
+  <img src="./demo/demo.gif" alt="Preview"
        width="800" height="450">
 </p>
 
