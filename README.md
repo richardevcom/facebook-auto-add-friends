@@ -1,3 +1,4 @@
+🚧 *We are working for python & headless browser version!* 🚧
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 <p align="center">
@@ -56,7 +57,7 @@ It's basically Javascript loop that simulates clicks, scrolls page down so the p
 4. **Hit enter** and let the magic happen!
 
 
-## Attention!!!
+## ⛔ Attention!!! ⛔
 
 1. Facebook has 1000 invite limitation which means you can only have 1000 pending invitations total.
 2. They also compare invitation time differences, so please don't change delay timing to something less than 1 second (1000ms).
