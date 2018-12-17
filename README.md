@@ -1,8 +1,8 @@
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 <p align="center">
-  <img src="./img/example.gif" alt="Screenshot"
-       width="654" height="450">
+  <img src="./demo/preview.gif" alt="Preview"
+       width="800" height="450">
 </p>
 
 ## How It Works
@@ -24,8 +24,19 @@ It's basically Javascript loop that simulates clicks, scrolls page down so the p
 * **UC Browser** ────── [[DOWNLOAD]](https://tampermonkey.net/?ext=dhdg&browser=chrome)
 
 2. **Enable Tampermonkey** by clicking on top right corner icon and selecting **Enable**
+<p align="center">
+  <img src="./demo/enable-tampermonkey.jpg" alt="Enable Tampermonkey"
+       width="800">
+</p>
 
 3. **Add script** by clicking on top right corner icon and selecting **Create a new script...**. When Add New Script window will open simply drag & drop or copy & paste the `fb-add-friends.js` file content.
+<p align="center">
+  <img src="./demo/create-new-script.jpg" alt="Create new script..."
+       width="800">
+  
+<img src="./demo/drag-drop.jpg" alt="Drag & Drop script"
+       width="800">
+</p>
 
 4. **Save script** - while you are still in "Add new script" window, click **File** > **Save**
 
