@@ -13,7 +13,7 @@ It's basically Javascript loop that simulates clicks, scrolls page down so the p
 
 ## Usage
 
-### A. With Tampermonkey
+### 🅰. With Tampermonkey
 
 1. First, install **Tampermonkey**:
 * **Chrome** ───────── [[DOWNLOAD]](https://tampermonkey.net/?ext=dhdg&browser=chrome)
@@ -49,7 +49,7 @@ It's basically Javascript loop that simulates clicks, scrolls page down so the p
    5.3. Reload the page if script not started.
 
 
-### B. With Browser Console
+### 🅱. With Browser Console
 
 1. **Open Browser**
 2. **Press F12 button** to open Developer Console (key may differ on different browsers)
