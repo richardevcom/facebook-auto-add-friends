@@ -1,3 +1,4 @@
+# 😅 For test / study purposes only 
 🚧 *We are working for python & headless browser version!* 🚧
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
