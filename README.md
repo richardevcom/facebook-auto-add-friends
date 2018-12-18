@@ -1,4 +1,3 @@
-😅 For test / study purposes only 
 🚧 *We are working for python & headless browser version!* 🚧
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
@@ -10,6 +9,8 @@
 ## How It Works
 
 It's basically Javascript loop that simulates clicks, scrolls page down so the page can load more people into list and if at any point there are any alerts/pop-ups/modals - it listens for them and closes them all. All you need to do is open friends finding page and activate it in Tampermonkey or submit it via Console.
+
+**This script is for test / study purposes only 😅**
 
 
 ## Usage
