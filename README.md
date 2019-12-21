@@ -1,5 +1,5 @@
 🚧 *We are working for python & headless browser version!* 🚧
-# Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
+# Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 <p align="center">
   <img src="./demo/demo.gif" alt="Preview"
