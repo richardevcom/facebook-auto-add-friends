@@ -1,4 +1,5 @@
-🚧 ~~*We are working for python & headless browser version!*~~ 🚧
+🚧 **Code is not maintained anymore.** 🚧<br/>
+_This was for old Facebook version and it's not maintained anymore. It won't work on new Facebook UI. However you may still try to run this on [https://m.facebook.com/](https://m.facebook.com/)_
 # Facebook Auto Add Friends [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 <p align="center">
